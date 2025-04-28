@@ -1,7 +1,7 @@
 Developed a full-stack URL shortener web application using Next.js.
 Built backend APIs with Prisma ORM to interact with a MySQL database.
 Integrated dynamic routing to handle short URL redirection to original URLs with Next.js.
-ntegrated NextAuth for secure user authentication, ensuring that only logged-in users can access the URL shortener form. After successful login, users can generate and manage their own short URLs.
+Integrated NextAuth for secure user authentication, ensuring that only logged-in users can access the URL shortener form. After successful login, users can generate and manage their own short URLs.
 
 ![Screenshot (3)](https://github.com/user-attachments/assets/4d34c42e-c30e-4ed6-8605-08590bf9fba3)
 
